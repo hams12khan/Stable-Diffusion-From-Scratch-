@@ -1,4 +1,4 @@
-Stable Diffusion Rebuilt from Scratch
+**Stable Diffusion Rebuilt from Scratch**
 *A modular, educational implementation of Stable Diffusion with custom UNet, VAE, CLIP encoder, and diffusion pipeline—using pre-trained weights for accessibility.*
 
 prompt = "A cat stretching on the floor, highly detailed, ultra sharp, cinematic, 100mm lens, 8k resolution."
